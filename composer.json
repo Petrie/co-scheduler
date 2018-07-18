@@ -1,6 +1,9 @@
 {
     "name": "petrie/co-scheduler",
+    "description": "php coroutine scheduler",
+    "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
